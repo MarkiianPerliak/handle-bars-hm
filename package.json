@@ -12,7 +12,7 @@
   },
   "author": "Markiian",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "parcel": "^2.14.4"
   }
 }
